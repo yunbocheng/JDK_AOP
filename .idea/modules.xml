@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JDK动态代理(AOP).iml" filepath="$PROJECT_DIR$/JDK动态代理(AOP).iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDk实现动态代理代码实现/JDk实现动态代理代码实现.iml" filepath="$PROJECT_DIR$/JDk实现动态代理代码实现/JDk实现动态代理代码实现.iml" />
+      <module fileurl="file://$PROJECT_DIR$/回顾反射机制(Method)/回顾反射机制(Method).iml" filepath="$PROJECT_DIR$/回顾反射机制(Method)/回顾反射机制(Method).iml" />
     </modules>
   </component>
 </project>
